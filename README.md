@@ -1,3 +1,7 @@
+```markdown
+## Live Demo
+https://aroma-ethics-89919668.figma.site
+
 # Color Palette Generator
 
 Color Palette Generator is a web application that allows users to create, customize, and export color palettes. It provides an interactive interface for exploring color combinations, adjusting color values, and ensuring accessibility compliance.
